@@ -7246,8 +7246,7 @@ select {
   position: relative;
   height: 440px;
   width: 80%;
-  margin-top: 30px;
-  margin:0 auto }
+  margin:30px auto 0 auto;}
   .slider.fullscreen {
     height: 100%;
     width: 100%;
